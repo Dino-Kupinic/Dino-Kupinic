@@ -18,6 +18,7 @@
 - RAM: 32GB DDR4
 - SSD: 2TB
 - Monitor: 27" 1440p 165Hz
+- Keyboard: Keychron K8 Pro Custom Mechanical Keyboard (Gateron G Pro Red Switches, RGB Backlight Aluminium - B)
   
 <h3 align="left">Languages/Frameworks and Tools:</h3>
 <p align="left">
