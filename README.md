@@ -1,4 +1,4 @@
-# Hi, I'm Dino Kupinic! 👋
+## Hi, I'm Dino Kupinic! 👋
 
 <h3 align="center">
 
@@ -52,4 +52,3 @@
 <h3 align="left">Repository Stats:</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dino-Kupinic&layout=compact&hide=html,css,cmake,dockerfile&bg_color=0D1117&text_color=c9d1d9&langs_count=15&hide_border=true&card_width=400&exclude_repo=Communify-Presentation,school-projects-presentation,Dino-Kupinic)](https://github.com/anuraghazra/github-readme-stats)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dino-kupinic" alt="dino-kupinic" /></a> </p>
