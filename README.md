@@ -6,17 +6,15 @@
 
 <h3 align="left">My Stuff:</h3>
 
-**Mobile Devices:**
-- MacBook Pro M1 Pro 2021 (16GB RAM 512GB SSD)
-- iPhone 15 Pro Natural Titanium
-- iPad Air 5
+| **Mobile Devices**              | **Desktop**                        |
+| ------------------------------  | ---------------------------------  |
+| - MacBook Pro M1 Pro 2021       | - OS: Windows 11                   |
+| - iPhone 15 Pro Natural Titanium| - CPU: Intel i5-13500              |  
+| - iPad Air 5                    | - GPU: AMD Radeon 6700XT (Sapphire)|
+|                                 | - RAM: 32GB DDR4                   |
+|                                 | - SSD: 2TB                         |
 
-**Desktop:**
-- OS: Windows 11
-- CPU: Intel i5-13500
-- GPU: AMD Radeon 6700XT (Sapphire)
-- RAM: 32GB DDR4
-- SSD: 2TB
+
   
 <h3 align="left">Languages/Frameworks and Tools:</h3>
 <p align="left">
