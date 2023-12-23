@@ -41,4 +41,4 @@
 
 <h3 align="left">Repository Stats:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dino-Kupinic&layout=compact&hide=html,css,cmake,dockerfile&bg_color=0D1117&text_color=c9d1d9&langs_count=15&hide_border=true&card_width=500&exclude_repo=Communify-Presentation,school-projects-presentation,Dino-Kupinic)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dino-Kupinic&layout=compact&hide=cmake,dockerfile&bg_color=0D1117&text_color=c9d1d9&langs_count=15&hide_border=true&card_width=500&exclude_repo=Communify-Presentation,school-projects-presentation,Dino-Kupinic)](https://github.com/anuraghazra/github-readme-stats)
