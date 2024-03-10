@@ -2,7 +2,7 @@
 
 <h3 align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dino-kupinic&label=Profile%20views&color=0e75b6&style=flat" alt="dino-kupinic" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dino-kupinic&label=Profile%20views&color=red&style=for-the-badge" alt="dino-kupinic" /> </p>
 
 <h3 align="left">My Stuff:</h3>
 
@@ -15,27 +15,16 @@
 |                                 | - SSD: 2TB                         |
 
 
-  
-<h3 align="left">Languages/Frameworks and Tools:</h3>
-<p align="left">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-   <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-   <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-</p>
+<h3 align="left">Languages:</h3>
+<img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,ts,java,py,php,bash,lua,regex,md" />
+<h3 align="left">Frameworks & Libraries:</h3>
+<img src="https://skillicons.dev/icons?i=express,nestjs,nodejs,vite,vue,vitest,nuxtjs,pinia,qt,spring,supabase,symfony,tailwind,prisma,bootstrap" />
+<h3 align="left">Databases:</h3>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+<h3 align="left">Tools:</h3>
+<img src="https://skillicons.dev/icons?i=git,npm,pnpm,yarn,kubernetes,docker,neovim,figma,pr,ps,idea,phpstorm,pycharm,clion,visualstudio,vscode,postman,sentry,vercel,githubactions,github,gitlab,maven,nginx" />
+<h3 align="left">Operating Systems:</h3>
+<img src="https://skillicons.dev/icons?i=apple,windows,linux,arch,debian,ubuntu" />
 
 <h3 align="left">Repository Stats:</h3>
 
