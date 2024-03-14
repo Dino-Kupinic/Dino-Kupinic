@@ -20,11 +20,11 @@
   
 </details>
 
-<h3 align="left">Languages:</h3>
+<h4 align="left">Languages:</h3>
 <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,ts,java,py,php,bash,lua,regex,md" style="height:36px;">
-<h3 align="left">Frameworks, Libraries & Databases:</h3>
-<img src="https://skillicons.dev/icons?i=express,nestjs,nodejs,vite,vue,vitest,nuxtjs,pinia,bootstrap,qt,spring,symfony,tailwind,prisma,mysql,postgres,supabase" style="height:72px;" />  
-<h3 align="left">Tools:</h3>
+<h4 align="left">Frameworks, Libraries & Databases:</h3>
+<img src="https://skillicons.dev/icons?i=express,nestjs,nodejs,vite,vue,vitest,nuxtjs,pinia,bootstrap,qt,spring,symfony,tailwind,prisma,mysql,postgres,supabase&perline=50" style="height:36px;" />  
+<h4 align="left">Tools:</h3>
 <img src="https://skillicons.dev/icons?i=git,npm,pnpm,yarn,kubernetes,docker,figma,postman,sentry,vercel,githubactions,github,gitlab,maven,nginx" style="height:36px;" />
 
 <details>
@@ -34,6 +34,6 @@
   <img src="https://skillicons.dev/icons?i=apple,windows,linux,arch,debian,ubuntu" style="height:36px;" />
 </details>
 
-<h3 align="left">Repository Stats:</h3>
+<h4 align="left">Repository Stats:</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dino-Kupinic&layout=compact&hide=cmake,dockerfile&bg_color=0D1117&text_color=c9d1d9&langs_count=8&hide_border=true&card_width=500&exclude_repo=Communify-Presentation,school-projects-presentation,Dino-Kupinic)](https://github.com/anuraghazra/github-readme-stats)
