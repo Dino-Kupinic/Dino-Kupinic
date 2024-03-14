@@ -1,5 +1,7 @@
 ## Hi, I'm Dino Kupinic! 👋
 
+<img src="assets/background.jpg" alt="background">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dino-kupinic&label=Profile%20views&color=red&style=for-the-badge" alt="dino-kupinic" /> </p>
 
 <details>
