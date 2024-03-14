@@ -19,17 +19,17 @@
 </details>
 
 <h3 align="left">Languages:</h3>
-<img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,ts,java,py,php,bash,lua,regex,md" />
+<img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,ts,java,py,php,bash,lua,regex,md" style="height:36px;">
 <h3 align="left">Frameworks, Libraries & Databases:</h3>
-<img src="https://skillicons.dev/icons?i=express,nestjs,nodejs,vite,vue,vitest,nuxtjs,pinia,bootstrap,qt,spring,symfony,tailwind,prisma,mysql,postgres,supabase" />
+<img src="https://skillicons.dev/icons?i=express,nestjs,nodejs,vite,vue,vitest,nuxtjs,pinia,bootstrap,qt,spring,symfony,tailwind,prisma,mysql,postgres,supabase" style="height:72px;" />  
 <h3 align="left">Tools:</h3>
-<img src="https://skillicons.dev/icons?i=git,npm,pnpm,yarn,kubernetes,docker,figma,postman,sentry,vercel,githubactions,github,gitlab,maven,nginx" />
+<img src="https://skillicons.dev/icons?i=git,npm,pnpm,yarn,kubernetes,docker,figma,postman,sentry,vercel,githubactions,github,gitlab,maven,nginx" style="height:36px;" />
 
 <details>
   <summary>Operating Systems</summary>
   <br>
   
-  <img src="https://skillicons.dev/icons?i=apple,windows,linux,arch,debian,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=apple,windows,linux,arch,debian,ubuntu" style="height:36px;" />
 </details>
 
 <h3 align="left">Repository Stats:</h3>
