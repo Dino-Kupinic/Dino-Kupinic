@@ -6,6 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dino-kupinic&label=Profile%20views&color=red&style=for-the-badge" alt="dino-kupinic" /> </p>
 
+<h4 align="left">Languages:</h3>
+<img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,ts,java,py,php,bash,lua,regex,md" style="height:36px;">
+<h4 align="left">Frameworks, Libraries & Databases:</h3>
+<img src="https://skillicons.dev/icons?i=express,nestjs,nodejs,vite,vue,vitest,nuxtjs,pinia,bootstrap,qt,spring,symfony,tailwind,prisma,mysql,postgres,supabase&perline=50" style="height:36px;" />  
+<h4 align="left">Tools:</h3>
+<img src="https://skillicons.dev/icons?i=git,npm,pnpm,yarn,kubernetes,docker,figma,postman,sentry,vercel,githubactions,github,gitlab,maven,nginx" style="height:36px;" />
+
 <details>
   <summary>
     My Stuff
@@ -20,20 +27,6 @@
 |                                 | - RAM: 32GB DDR4                   |
 |                                 | - SSD: 2TB                         |
   
-</details>
-
-<h4 align="left">Languages:</h3>
-<img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,ts,java,py,php,bash,lua,regex,md" style="height:36px;">
-<h4 align="left">Frameworks, Libraries & Databases:</h3>
-<img src="https://skillicons.dev/icons?i=express,nestjs,nodejs,vite,vue,vitest,nuxtjs,pinia,bootstrap,qt,spring,symfony,tailwind,prisma,mysql,postgres,supabase&perline=50" style="height:36px;" />  
-<h4 align="left">Tools:</h3>
-<img src="https://skillicons.dev/icons?i=git,npm,pnpm,yarn,kubernetes,docker,figma,postman,sentry,vercel,githubactions,github,gitlab,maven,nginx" style="height:36px;" />
-
-<details>
-  <summary>Operating Systems</summary>
-  <br>
-  
-  <img src="https://skillicons.dev/icons?i=apple,windows,linux,arch,debian,ubuntu" style="height:36px;" />
 </details>
 
 <h4 align="left">Repository Stats:</h3>
