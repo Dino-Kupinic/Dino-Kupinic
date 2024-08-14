@@ -23,8 +23,8 @@
 | ------------------------------  | ---------------------------------  |
 | - MacBook Pro M1 Pro 2021       | - OS: Windows 11                   |
 | - iPhone 15 Pro Natural Titanium| - CPU: Intel i5-13500              |  
-| - iPad Air 5                    | - GPU: AMD Radeon 6700XT (Sapphire)|
-|                                 | - RAM: 32GB DDR4                   |
+| - iPad Air 5 with 2nd Gen Pencil| - GPU: AMD Radeon 6700XT (Sapphire)|
+| - AirPods Pro 2 USB-C           | - RAM: 32GB DDR4                   |
 |                                 | - SSD: 2TB                         |
   
 </details>
