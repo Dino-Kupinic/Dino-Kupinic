@@ -9,7 +9,7 @@
 <h4 align="left">Languages:</h3>
 <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,ts,java,py,php,bash,lua,regex,md" style="height:36px;">
 <h4 align="left">Frameworks, Libraries & Databases:</h3>
-<img src="https://skillicons.dev/icons?i=express,nestjs,nodejs,react,next,svelte,vite,vue,nuxtjs,vitest,pinia,bootstrap,qt,spring,symfony,tailwind,prisma,mysql,postgres,supabase,sqlite&perline=50" style="height:36px;" />  
+<img src="https://skillicons.dev/icons?i=express,nestjs,nodejs,react,next,svelte,vite,vue,nuxtjs,vitest,pinia,bootstrap,spring,symfony,tailwind,prisma,mysql,postgres,supabase,sqlite&perline=50" style="height:36px;" />  
 
 <details>
   <summary>
