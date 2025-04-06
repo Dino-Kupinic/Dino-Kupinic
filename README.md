@@ -1,5 +1,3 @@
-## Hi, I'm Dino Kupinic! 👋
-
 <a href="https://dino-kupinic.dev/">
     <img src="assets/background.jpg" alt="background">
 </a>
