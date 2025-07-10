@@ -3,8 +3,8 @@
 
 <table>
 <tr>
-<td><strong>Languages:</strong><br><br><img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,ts,java,py,php,bash" style="height:32px;"></td>
-<td><strong>Frameworks, Libraries & Databases:</strong><br><br><img src="https://skillicons.dev/icons?i=express,nodejs,react,next,svelte,fastapi,vite,vue,nuxtjs,vitest,pinia,spring,symfony,tailwind,mysql,postgres,supabase,mongodb&perline=50" style="height:32px;"></td>
+<td><strong>Languages:</strong><br><img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,ts,java,py,php,bash" style="height:32px;"></td>
+<td><strong>Frameworks, Libraries & Databases:</strong><br><img src="https://skillicons.dev/icons?i=nodejs,react,next,fastapi,vite,vue,nuxtjs,vitest,pinia,spring,symfony,tailwind,mysql,postgres,supabase,mongodb&perline=50" style="height:32px;"></td>
 </tr>
 <tr>
 <td colspan="2">
